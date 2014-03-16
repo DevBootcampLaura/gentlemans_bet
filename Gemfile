@@ -69,4 +69,4 @@ gem 'normalize-rails'
 
 gem 'rails_12factor', group: :production
 
-ruby "2.1.1"
+ruby "2.0.0"
